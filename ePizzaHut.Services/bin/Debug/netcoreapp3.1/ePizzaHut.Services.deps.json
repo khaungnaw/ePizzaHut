@@ -11,7 +11,8 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.11",
           "Microsoft.EntityFrameworkCore": "5.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.11",
-          "Microsoft.EntityFrameworkCore.Tools": "5.0.11"
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.11",
+          "ePizzHut.Repository": "1.0.0"
         },
         "runtime": {
           "ePizzaHut.Services.dll": {}
@@ -1140,6 +1141,27 @@
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
         }
+      },
+      "ePizzaHut.Entity/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.11",
+          "Microsoft.EntityFrameworkCore": "5.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.11"
+        },
+        "runtime": {
+          "ePizzaHut.Entity.dll": {}
+        }
+      },
+      "ePizzHut.Repository/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.11",
+          "Microsoft.EntityFrameworkCore": "5.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.11",
+          "ePizzaHut.Entity": "1.0.0"
+        },
+        "runtime": {
+          "ePizzHut.Repository.dll": {}
+        }
       }
     }
   },
@@ -1862,6 +1884,16 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "ePizzaHut.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ePizzHut.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

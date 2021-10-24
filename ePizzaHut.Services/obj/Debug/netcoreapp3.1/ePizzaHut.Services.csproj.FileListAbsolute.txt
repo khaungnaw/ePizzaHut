@@ -7,6 +7,10 @@ D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaH
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaHut.Services.runtimeconfig.dev.json
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.genruntimeconfig.cache
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaHut.Services.pdb
-D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.csproj.CoreCompileInputs.cache
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.dll
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.pdb
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaHut.Entity.dll
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzHut.Repository.dll
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzHut.Repository.pdb
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaHut.Entity.pdb
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.csproj.CopyComplete
