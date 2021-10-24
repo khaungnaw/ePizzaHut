@@ -8,6 +8,6 @@ Learn .net core by developing ePizzaHut project
 * Microsoft.EntityFrameWorkCore.Tools (for Add-Migration, Drop-Database, Get-DbContext)
 * Microsoft.AspNetCore.Identity.EntityFrameworkCore
 
-# Create 
+# Migration
 * add-migration initial
 * update-database (to run migration scripts)
