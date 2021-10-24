@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ePizzaHub.Entities
+namespace ePizzaHut.Entity
 {
     public class Cart
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ePizzaHub.Entities
+namespace ePizzaHut.Entity
 {
     public class ItemType
     {
