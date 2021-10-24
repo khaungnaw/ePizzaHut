@@ -1,0 +1,5 @@
+D:\Besam_DotNetCore\ePizzaHut\ePizzHut.Repository\bin\Debug\netcoreapp3.1\ePizzHut.Repository.deps.json
+D:\Besam_DotNetCore\ePizzaHut\ePizzHut.Repository\bin\Debug\netcoreapp3.1\ePizzHut.Repository.dll
+D:\Besam_DotNetCore\ePizzaHut\ePizzHut.Repository\obj\Debug\netcoreapp3.1\ePizzHut.Repository.AssemblyInfoInputs.cache
+D:\Besam_DotNetCore\ePizzaHut\ePizzHut.Repository\obj\Debug\netcoreapp3.1\ePizzHut.Repository.AssemblyInfo.cs
+D:\Besam_DotNetCore\ePizzaHut\ePizzHut.Repository\obj\Debug\netcoreapp3.1\ePizzHut.Repository.csprojAssemblyReference.cache
