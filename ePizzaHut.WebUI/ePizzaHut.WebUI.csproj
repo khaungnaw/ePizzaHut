@@ -13,6 +13,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ePizzHut.Repository\ePizzHut.Repository.csproj" />
+  </ItemGroup>
+
 
 
 </Project>

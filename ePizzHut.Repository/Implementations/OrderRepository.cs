@@ -8,7 +8,7 @@ namespace ePizzHut.Repository.Implementations
 {
     public class OrderRepository : Repository<Order>, IOrderRepository
     {
-        public OrderRepository(DbContext dbContext) : base(dbContext) { };
+        public OrderRepository(DbContext dbContext) : base(dbContext) { }
         private AppDbContext appContext
         {
             get { return _dbContext as AppDbContext; }
