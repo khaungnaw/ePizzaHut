@@ -6,4 +6,5 @@ Learn .net core by developing ePizzaHut project
 * Microsoft.EntityFrameWorkCore
 * Microsoft.EntityFrameWorkCore.SqlServer
 * Microsoft.EntityFrameWorkCore.Tools (for Add-Migration, Drop-Database, Get-DbContext)
+* Microsoft.AspNetCore.Identity.EntityFrameworkCore
 
