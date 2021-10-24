@@ -14,11 +14,10 @@ namespace ePizzaHut.Services.Implementations
         /// </summary>
         protected readonly SignInManager<User> _signInManager;
         protected readonly UserManager<User> _userManager;
-        protected readonly RoleManager<User> _roleManager;
+        protected readonly RoleManager<Role> _roleManager;
 
         public AuthentationService(SignInManager<User> signInManager, 
-            UserManager<User> userManager, 
-            RoleManager<User> roleManager)
+            UserManager<User> userManager, RoleManager<Role> roleManager)
         {
             _signInManager = signInManager;
             _userManager = userManager;

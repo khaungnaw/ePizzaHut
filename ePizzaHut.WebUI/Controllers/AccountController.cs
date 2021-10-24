@@ -21,6 +21,7 @@ namespace ePizzaHut.WebUI.Controllers
             return View();
         }
 
+        [HttpPost]
         public IActionResult SignUp(UserModel model)
         {
             if (ModelState.IsValid)

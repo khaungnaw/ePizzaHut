@@ -1,10 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using ePizzaHut.Entity;
+using ePizzaHut.Services.Configuration;
+using ePizzaHut.WebUI.Configuration;
+using ePizzHut.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -23,6 +23,8 @@ namespace ePizzaHut.WebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddRepositories(Configuration);
+            services.AddDependencies();
             services.AddControllersWithViews();
         }
 
