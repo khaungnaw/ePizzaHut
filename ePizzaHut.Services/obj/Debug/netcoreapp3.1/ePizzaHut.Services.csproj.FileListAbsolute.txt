@@ -3,3 +3,6 @@ D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaH
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.csprojAssemblyReference.cache
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.AssemblyInfoInputs.cache
 D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.AssemblyInfo.cs
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaHut.Services.runtimeconfig.json
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\bin\Debug\netcoreapp3.1\ePizzaHut.Services.runtimeconfig.dev.json
+D:\Besam_DotNetCore\ePizzaHut\ePizzaHut.Services\obj\Debug\netcoreapp3.1\ePizzaHut.Services.genruntimeconfig.cache
